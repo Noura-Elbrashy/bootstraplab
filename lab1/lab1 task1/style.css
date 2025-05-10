@@ -1,0 +1,11 @@
+body{
+    background-image:url("/lab1/lab1 task1/pic/bg.jpg");
+}
+section{
+    margin-top: 10em;
+}
+
+#profile{
+    width: 20rem;
+    box-shadow: 4px 4px 33px rgb(190, 217, 239);
+}

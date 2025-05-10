@@ -1,0 +1,15 @@
+body {
+    padding-top: 80px;
+    background-color: #f8f9fa;
+}
+
+#logo {
+    width: 200px;
+    height: auto;
+    border-radius: 22px;
+    box-shadow: 5px 5px 8px rgba(128, 176, 215, 0.5);
+}
+
+.btn-outline-primary {
+    font-size: 1.2rem;
+}
